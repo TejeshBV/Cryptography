@@ -1,5 +1,5 @@
 //-----------------------------------------------------------------------------------
-// Decrypt a single character or a pair of characters
+// Decrypt a single character or a pair of characters.
 //-----------------------------------------------------------------------------------
 private string Decrypt(ref string _inChar)
 {
